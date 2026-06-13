@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👨‍💻 Eric Fraga de Azevedo
 
-🚀 Profissional de TI | Infraestrutura | DBA em evolução | Futuro Gestor de TI
+🚀 Profissional de TI | Infraestrutura | DBA em evolução | Gestor de TI
 ---
 🧠 Sobre mim
 
