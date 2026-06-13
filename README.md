@@ -72,9 +72,8 @@ Atuar como DBA SQL Server / Cloud Engineer, evoluindo para posições de Gestão
 
 🤝 Vamos nos conectar
 
-💼 LinkedIn: (coloque seu link aqui)
+💼 LinkedIn: https://www.linkedin.com/in/ericfragadeazevedo
 
-📫 Email: (se quiser colocar)
 
 
 ---
